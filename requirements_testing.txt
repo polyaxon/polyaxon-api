@@ -1,6 +1,6 @@
 -r requirements.txt
 
-coverage==3.7.1
+coverage==4.4.1
 django-debug-panel
 django-debug-toolbar
 factory-boy
