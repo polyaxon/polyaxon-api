@@ -4,7 +4,7 @@ jupyter==1.0.0
 pandas==0.20.3
 pandas-summary==0.0.41
 tensorflow>=1.2.0
-Django==1.11.3
+Django==1.11.5
 djangorestframework==3.5.3
 djangorestframework-camel-case==0.2.0
 Unipath==1.1
