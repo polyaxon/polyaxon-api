@@ -3,7 +3,7 @@
 coverage==4.4.1
 django-debug-panel==0.8.3
 django-debug-toolbar==1.8
-factory-boy
+factory-boy==2.9.2
 fake-factory==0.6.0
 flaky==3.2.0
 mock==2.0.0
