@@ -10,7 +10,7 @@ pandas==0.21.1
 pandas-summary==0.0.41
 https://github.com/polyaxon/polyaxon/archive/master.zip
 https://github.com/polyaxon/polyaxon-schemas/archive/master.zip
-psycopg2==2.7.3.1
+psycopg2==2.7.3.2
 redis==2.10.6
 seaborn==0.7.1
 six==1.11.0
