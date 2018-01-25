@@ -2,6 +2,7 @@
 [![PyPI version](https://badge.fury.io/py/polyaxon-lib.svg)](https://badge.fury.io/py/polyaxon-lib)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENCE)
 [![Gitter](https://img.shields.io/gitter/room/nwjs/nw.js.svg)](https://gitter.im/polyaxon/polyaxon)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fpolyaxon%2Fpolyaxon-lib.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fpolyaxon%2Fpolyaxon-lib?ref=badge_shield)
 
 # Polyaxon-Lib
 
@@ -408,6 +409,9 @@ Please follow the contribution guide line: *[Contribute to Polyaxon](CONTRIBUTIN
 # License
 
 MIT License
+
+
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fpolyaxon%2Fpolyaxon-lib.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fpolyaxon%2Fpolyaxon-lib?ref=badge_large)
 
 # Credit
 
